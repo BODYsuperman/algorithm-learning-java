@@ -1,5 +1,7 @@
 package com.alexjava.algorithms.binarytree;
 
+import com.alexjava.common.structures.ListNode;
+
 import javax.swing.*;
 
 public class MyLinkedList {

@@ -1,5 +1,7 @@
 package com.alexjava.algorithms.binarytree;
 
+import com.alexjava.common.structures.ListNode;
+
 public class RemoveElements {
     public static void main(String[] args) {
 
