@@ -10,11 +10,8 @@ public class Partition {
     List<List<String>> res = new ArrayList<>();
 
     public List<List<String>> partition(String s) {
-
-
-
+        
         dfs(s, 0);
-
         return res;
 
     }

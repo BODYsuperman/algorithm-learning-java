@@ -24,6 +24,8 @@ public class RestoreIpAddresses {
             if(startIndex == s.length()){
                 res.add(String.join(".", path));
             }
+
+            return;
         }
 
         for (int i = startIndex; i < s.length() ; i++) {
